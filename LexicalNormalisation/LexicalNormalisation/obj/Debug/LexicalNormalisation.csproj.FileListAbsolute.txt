@@ -1,0 +1,34 @@
+C:\Users\Haaris\Desktop\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe.config
+C:\Users\Haaris\Desktop\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe
+C:\Users\Haaris\Desktop\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.pdb
+C:\Users\Haaris\Desktop\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.csprojResolveAssemblyReference.cache
+C:\Users\Haaris\Desktop\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.csproj.CoreCompileInputs.cache
+C:\Users\Haaris\Desktop\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.exe
+C:\Users\Haaris\Desktop\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.pdb
+D:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.csprojResolveAssemblyReference.cache
+D:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.csproj.CoreCompileInputs.cache
+D:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.exe
+D:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.pdb
+D:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe.config
+D:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe
+D:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.pdb
+E:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe.config
+E:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe
+E:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.pdb
+E:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.csprojResolveAssemblyReference.cache
+E:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.exe
+E:\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.pdb
+C:\Users\Haaris\Desktop\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe.config
+C:\Users\Haaris\Desktop\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe
+C:\Users\Haaris\Desktop\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.pdb
+C:\Users\Haaris\Desktop\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.csprojResolveAssemblyReference.cache
+C:\Users\Haaris\Desktop\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.csproj.CoreCompileInputs.cache
+C:\Users\Haaris\Desktop\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.exe
+C:\Users\Haaris\Desktop\Semester 2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.pdb
+C:\Users\Haaris\Desktop\Semester2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe.config
+C:\Users\Haaris\Desktop\Semester2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.exe
+C:\Users\Haaris\Desktop\Semester2\KT\LexicalNormalisation\LexicalNormalisation\bin\Debug\LexicalNormalisation.pdb
+C:\Users\Haaris\Desktop\Semester2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.csproj.CoreCompileInputs.cache
+C:\Users\Haaris\Desktop\Semester2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.exe
+C:\Users\Haaris\Desktop\Semester2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.pdb
+C:\Users\Haaris\Desktop\Semester2\KT\LexicalNormalisation\LexicalNormalisation\obj\Debug\LexicalNormalisation.csprojResolveAssemblyReference.cache
